@@ -23,5 +23,4 @@ Next Steps
 
 Day 2: Preprocess text systematically for sentiment analysis.
 
-License
-MIT License
+
